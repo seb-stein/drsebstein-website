@@ -96,8 +96,8 @@ phone = "+44 (0) 2380 597 645"
 address = {street = "University Road", city = "Southampton", postcode = "SO17 1BJ", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
-# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom. 
-coordinates = {latitude = "50.93633434598613", longitude = "-1.396394441699949"}
+# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.  
+coordinates = {latitude = "50.93669742126007", longitude = "-1.395865527962609"}
 
 # Directions for visitors to locate you.
 directions = "Building 32, Room 4023"
